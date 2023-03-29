@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Android Development at](https://www.autotrac.com.br/)
+- 🔭 I’m currently working on [Android Development](https://www.autotrac.com.br/)
 
 - 🌱 I’m currently learning **Django and Flask**
 
