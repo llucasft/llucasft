@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Android Development](https://www.autotrac.com.br/)
 
-- 🌱 I’m currently learning **Django and Flask**
+- 🌱 I’m currently learning **Jetpack Compose** and **Django and Flask**
 
 - 📫 How to reach me **lucasfteo@gmail.com**
 
